@@ -1,0 +1,6 @@
+.cache/
+.config/
+.upm/
+__pycache__/
+venv/
+.idea/
